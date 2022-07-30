@@ -31,7 +31,7 @@ const Topbar = () => {
         <Notifications/>
         <div className="topbarIconBadge">1</div>
     </div>
-    <img src="/assets/person/1.jpeg" alt="" className="topbarImg" />
+    <img  className='profileImage' src="/assets/person/1.jpeg" alt="" className="topbarImg" />
 </div>
         </div>
 
