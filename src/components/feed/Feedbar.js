@@ -8,6 +8,9 @@ const Feedbar = () => {
       <div className="feedWraper">
         <Share/>
         <Post/>
+        <Post/>
+        <Post/>
+        <Post/>
       </div>
     </div>
   )
